@@ -1,5 +1,6 @@
 # Proiect1ASC
-
+Numele echipei: Team, Assembly!
+Numele echipei adverse: Echipa Registri
 Cheia echipei adverse: ediEUnRegistru
 
 Algoritm find_key_with_input:
